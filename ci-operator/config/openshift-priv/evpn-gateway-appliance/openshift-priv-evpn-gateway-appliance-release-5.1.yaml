@@ -4,7 +4,7 @@ base_images:
     namespace: openshift
     tag: stream10
   metallb-frr:
-    name: "4.22"
+    name: "5.1"
     namespace: ocp-priv
     tag: metallb-frr
   prometheus-node-exporter:
